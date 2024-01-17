@@ -1,4 +1,4 @@
 # apna-demo
 This is my first Repository
 <br>
-Author - Bhushan Harpade
+Author - Bhushan (Bhushan Harpade)
